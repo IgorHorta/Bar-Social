@@ -1,0 +1,2 @@
+# Bar-Social
+O Sistema tem como objetivo auxiliar a concretização do modelo de negócios proposto pelo “Boteco Social” que consiste em um bar onde os clientes realizam seus pedidos através de um aplicativo móvel com interface amigável e cheio de interações sob medida para cada perfil de usuário. Esse sistema foca na integração de dois módulos que se comunicam entre si, divididos em dois níveis: usuário/cliente e usuário/administrador. Como resultado, os clientes do bar terão uma experiência inovadora de interação com seus pedidos e com demais clientes do estabelecimento.
